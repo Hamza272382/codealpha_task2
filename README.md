@@ -1,4 +1,4 @@
-# codealpha_task2: # Build a Claculator
+# codealpha_task2: Build a Claculator
 
 # Description
 This project is a basic calculator web application built with HTML, CSS, and JavaScript. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
